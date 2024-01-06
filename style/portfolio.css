@@ -128,3 +128,17 @@ padding: 30px 150px;
 
 
 }
+.skills-contain{
+
+display: flex;
+}
+.skill{
+    padding: 30px;
+
+
+}
+.skill-descriptions{
+
+
+
+}
